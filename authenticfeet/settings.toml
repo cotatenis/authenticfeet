@@ -1,0 +1,11 @@
+[store]
+brands=[
+    'authenticfeet-adidas-male',
+    'authenticfeet-adidas-female',
+    'authenticfeet-adidas-kids',
+    'authenticfeet-nike-male',
+    'authenticfeet-nike-female',
+    'authenticfeet-nike-kids'
+]
+[gcp]
+GOOGLE_APPLICATION_CREDENTIALS="./credentials/credentials.json"
